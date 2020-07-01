@@ -1,0 +1,3 @@
+command : au run
+
+url : "https://freecontent.manning.com/building-your-first-aurelia-application/"
